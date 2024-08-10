@@ -1,6 +1,7 @@
 {
   "item.mimicmod.sapphire": "Sapphire",
   "item.mimicmod.spessartine": "Spessartine",
-
+  "block.mimicmod.sapphire_block": "Sapphire block",
+  "block.mimicmod.spessartine_block": "Spessartine block",
   "creativetab.mimic_tab": "My tab"
 }
